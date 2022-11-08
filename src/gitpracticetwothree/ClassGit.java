@@ -6,6 +6,7 @@ public class ClassGit {
 		// TODO Auto-generated method stub
 System.out.println("this is git ");
 System.out.println("emty git");
+System.out.println("all right");
 	}
 
 }
