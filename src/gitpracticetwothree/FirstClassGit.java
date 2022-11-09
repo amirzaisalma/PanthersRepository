@@ -6,6 +6,7 @@ public class FirstClassGit {
 		
 			
 		System.out.println("this is test");
+		System.out.println("this should show in local repo");
 	}
 
 }
