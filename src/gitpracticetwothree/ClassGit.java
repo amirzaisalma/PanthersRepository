@@ -7,6 +7,7 @@ public class ClassGit {
 System.out.println("this is git ");
 System.out.println("emty git");
 System.out.println("all right");
+System.out.println("this line should show in the remote repo");
 	}
 
 }
